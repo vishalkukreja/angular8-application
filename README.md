@@ -1,7 +1,7 @@
 # angular8-application
 Application created using Angular 8 - This is basic, started for learning.
 
-# Angular8Application
+# Angular8 Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.7.
 
